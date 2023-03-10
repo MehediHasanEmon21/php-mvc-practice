@@ -1,0 +1,17 @@
+{
+    "name": "hp/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "MehediHasanEmon21",
+            "email": "mh.emon2021@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
